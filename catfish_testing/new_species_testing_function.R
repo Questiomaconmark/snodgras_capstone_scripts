@@ -40,7 +40,3 @@ for (sci in names(species_list)) {
   common <- species_list[[sci]]
   make_csv_by_species(sci, common)
 }
-
-
-
-
